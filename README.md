@@ -118,6 +118,11 @@ The expected outcomes of this project are:
 ```text
 Real-Time-Drowsiness-Detection/
 │
+├──Background Study
+|
+├──Project/
+|   └──Project File
+|
 ├── Proposal/
 │   └── Project proposal related files
 │
