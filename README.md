@@ -118,11 +118,23 @@ The expected outcomes of this project are:
 ```text
 Real-Time-Drowsiness-Detection/
 │
-├──Background Study
-|
-├──Project/
-|   └──Project File
-|
+├── Background Study/
+│   ├── 1. Driver Drowsiness Detection System using Convolutional Neural Network.
+│   ├── 2. IoT-Assisted Automatic Driver Drowsiness Detection through Facial Movement Analysis Using Deep Learning and a U-Net-Based Architecture.
+│   ├── 3. A Robust and Efficient EEG-Based Drowsiness Detection System Using Different Machine Learning Algorithms.
+│   ├── 4. Convolutional Neural Network for Drowsiness Detection Using EEG Signals.
+│   ├── 5. Physiological Signal-Based Drowsiness Detection Using Machine Learning: Singular and Hybrid Signal Approaches.
+│   ├── 6. EEG-Based Drowsiness and Alertness Recognition Using Feature Fusion and Deep Residual Networks.
+│   ├── 7. Learning Multimodal Representations for Drowsiness Detection.
+│   ├── 8. An Efficient System for Driver Drowsiness Detection Using Convolutional Neural Networks.
+│   ├── 9. Driver Drowsiness Detection Based on Facial Expression Recognition Using Deep Learning.
+│   ├── 10. Driver Drowsiness Detection System Based on Feature-Level Fusion of Facial and Bio-Signals.
+│   ├── 11. Driver Drowsiness Classification Using Fuzzy Wavelet-Packet-Based Feature-Extraction Algorithm.
+│   └── 12. From Facial Expression Recognition to Interpersonal Trust Inference: Recent Advances in the Machine Learning Perspective.
+│
+├── Project/
+│   └── Project File
+│
 ├── Proposal/
 │   └── Project proposal related files
 │
