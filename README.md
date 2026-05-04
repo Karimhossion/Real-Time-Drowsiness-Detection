@@ -186,9 +186,11 @@ This project presents a real-time drowsiness detection system using computer vis
 
 ## Author
 
-**Md Karim**
-**Mst Khadiza Alam Momi**
+**Md Karim,**
+**Mst Khadiza Alam Momi,**
 **Samia Akter Nipa**
+
+
 Department of Computer Science and Engineering  
 Varendra University  
 Rajshahi, Bangladesh
