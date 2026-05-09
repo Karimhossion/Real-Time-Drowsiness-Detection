@@ -1,0 +1,87 @@
+\documentclass[12pt,a4paper]{article}
+\usepackage{graphicx}
+\graphicspath{{./Figure/}}
+\usepackage{float}
+\usepackage{multirow}
+
+\title{Introduction}
+\author{Md Karim}
+
+\begin{document}
+\maketitle
+
+\section{Introduction}
+This is my first document written in LaTeX...
+
+\section{Motivation}
+This section includes the motivation behind this project work.
+
+\section{Objective}
+This proposed work has general and specific objectives.
+
+\subsection{General Objective}
+\begin{enumerate}
+    \item first objective
+    \item second objective
+    \item third objective
+\end{enumerate}
+
+The flowchart in Figure \ref{fig:image} illustrates the entire working procedure.
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.7\textwidth]{figure/image.png}
+\caption{First flowchart}
+\label{fig:image}
+\end{figure}
+
+\vspace{0.1cm}
+
+\begin{table}[H]
+    \centering
+    \begin{tabular}{|p{4cm}|p{3cm}|p{4cm}|p{4cm}|}
+    \hline
+    {\bf Arafat}&{\bf Karim}&{\bf Lam}& {\bf Lam}\\
+    \hline
+     \multirow{3}{*}{Arrival Distribution} & Poisson & I am discussion& i love  \\
+    \cline{2-4} & Normal & Second discussion & arafat you clint \\
+    \cline{2-4} & Normal & Second discussion & arafat you clint \\
+    \hline
+
+    Arrival Distribution & Poisson & I am discussion\\
+    \hline
+  
+    Arrival Distribution & Poisson & I am discussion\\
+    \hline
+    
+    Arrival Distribution & Poisson & I am discussion\\
+    \hline
+    
+    \end{tabular}
+    \caption{Caption}
+
+\end{table}
+\vspace{0.1cm}
+
+\begin{table}[H]
+\centering
+\begin{tabular}{|p{4cm}|p{3cm}|p{4cm}|p{4cm}|}
+\hline
+
+\multicolumn{3}{|c|}{\bf Arafat} & {\bf Karim} \\
+\hline
+
+Normal & Second discussion & arafat you clint & Text \\
+\hline
+
+Arrival Distribution & Poisson & I am discussion & Text \\
+\hline
+
+Arrival Distribution & Poisson & I am discussion & Text \\
+\hline
+
+\end{tabular}
+\caption{Caption}
+
+\end{table}
+\end{document}
